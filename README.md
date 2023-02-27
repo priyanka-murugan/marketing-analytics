@@ -1,6 +1,6 @@
 # Marketing Analytics
 
-I have written a medium article detailing the importance of doing PCA and clustering on 
+I have written a [medium article](https://medium.com/@priyanka-murugan/application-of-pca-in-marketing-982ef3f5e24f) detailing the importance of doing PCA and clustering on 
 marketing channel data, we can implement the same on a grocery firm dataset. 
 Since I have used a relatively clean dataset, I only needed to do a few additional data processing 
 steps to analyze the data. I have created a few frequency distribution plots and boxplots to visualize 
